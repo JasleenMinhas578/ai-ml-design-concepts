@@ -89,3 +89,4 @@ Do these after Day 50, or use the optional third hour on busy weeks.
 - Transformers: Jay Alammar's "The Illustrated Transformer", Andrej Karpathy's videos
 - RAG and agents: LlamaIndex and LangChain docs, DeepLearning.AI short courses
 - System design: "Designing Machine Learning Systems" by Chip Huyen, ByteByteGo
+# ai-ml-design-concepts
